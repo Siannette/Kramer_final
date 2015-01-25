@@ -1,0 +1,16 @@
+// Requirements
+
+$susy: (
+  columns: 12,
+  gutters: 0.25,
+  container: 97.5em,
+  math: fluid,
+  gutter-position: after,
+
+  debug: (
+    image: hide,
+    color: rgba(#66f, .25),
+    output: background,
+    toggle: top right,
+  ),
+);
